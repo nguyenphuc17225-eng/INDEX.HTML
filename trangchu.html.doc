@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <title>Trang chủ - Văn hóa Việt Nam</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Khám Phá Văn Hóa Việt Nam</h1>
+    </header>
+    <nav>
+        <a href="index.html">Trang chủ</a>
+        <a href="about.html">Giới thiệu</a>
+        <a href="contact.html">Liên hệ</a>
+    </nav>
+    <main>
+        <h2>Chào mừng đến với trang văn hóa Việt!</h2>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Ao_dai_in_Hue.jpg/640px-Ao_dai_in_Hue.jpg" alt="Văn hóa Việt Nam">
+        <p>Việt Nam có nền văn hóa đa dạng, lâu đời với những phong tục tập quán, lễ hội và di sản phong phú.</p>
+        <table>
+            <tr>
+                <th>Yếu tố</th>
+                <th>Mô tả</th>
+            </tr>
+            <tr>
+                <td>Trang phục</td>
+                <td>Áo dài truyền thống cho nữ, áo the khăn đóng cho nam.</td>
+            </tr>
+            <tr>
+                <td>Lễ hội</td>
+                <td>Hội Lim, Lễ hội Đền Hùng, Tết Nguyên Đán...</td>
+            </tr>
+            <tr>
+                <td>Ẩm thực</td>
+                <td>Phở, bún chả, bánh chưng, nem cuốn...</td>
+            </tr>
+        </table>
+    </main>
+    <footer>
+        &copy; 2025 Văn hóa Việt Nam
+    </footer>
+</body>
+</html>
